@@ -1,0 +1,11 @@
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\bin\Debug\netcoreapp3.0\PayRoll.exe
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\bin\Debug\netcoreapp3.0\PayRoll.deps.json
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\bin\Debug\netcoreapp3.0\PayRoll.runtimeconfig.json
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\bin\Debug\netcoreapp3.0\PayRoll.runtimeconfig.dev.json
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\bin\Debug\netcoreapp3.0\PayRoll.dll
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\bin\Debug\netcoreapp3.0\PayRoll.pdb
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\obj\Debug\netcoreapp3.0\PayRoll.csprojAssemblyReference.cache
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\obj\Debug\netcoreapp3.0\PayRoll.AssemblyInfoInputs.cache
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\obj\Debug\netcoreapp3.0\PayRoll.AssemblyInfo.cs
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\obj\Debug\netcoreapp3.0\PayRoll.dll
+D:\BACKUPS\JOHN KRISE\School work\PayRoll\PayRoll\obj\Debug\netcoreapp3.0\PayRoll.pdb
